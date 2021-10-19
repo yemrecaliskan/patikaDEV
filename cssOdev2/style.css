@@ -1,0 +1,51 @@
+body{
+    padding: 0;
+	margin: 0;
+    text-align: center;
+}
+
+
+.content{
+    position: relative;
+	width: 980px;
+	margin: 10px auto;
+}
+
+.left, .middle
+{
+	display: inline;
+	float: left;
+    height: 85px;
+	margin: 70px 0 4px 4px;
+}
+.left{
+    width: 400px;
+    background-color: #7ee5da;
+}
+.middle
+{
+    width: 200px;
+    background-color: #70ccc2;
+}
+.search
+{
+    padding:0px;
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	width: 980px;
+	background-color: #eeeeee;
+}
+.right
+{
+	display: inline;
+	float: right;
+	width: 368px;
+	height: 85px;
+	margin: 70px 0px 0 0;
+	background-color: #62b3aa;
+}
+.footer{
+    clear: both;
+	margin: 0 0 4px 4px;
+}

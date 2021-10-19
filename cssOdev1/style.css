@@ -1,0 +1,39 @@
+body{
+    font-family:Verdana;
+}
+
+h1{
+    color : red;
+}
+
+header{
+    margin: 0 auto;
+    text-align: center;
+}
+header ul{
+    padding:0px;
+    list-style-type: none;
+}
+
+header ul li{
+    padding: 5px;
+    display: inline-block;
+}
+
+header h2{
+    color:blue;
+}
+
+section h3{
+    color:orange;
+}
+
+section ul,ol{
+    text-align: center;
+    padding:0px;
+    list-style-position: inside;
+}
+
+section ol li img{
+    height: 300px;
+}
